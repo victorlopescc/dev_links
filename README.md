@@ -23,6 +23,3 @@ Nele é possível encontrar:
 
 O projeto foi desenvolvido para servir como uma página simples, direta e personalizada para compartilhar minhas informações profissionais de forma prática.
 
----
-
-Projeto criado por **Victor Lopes**.
